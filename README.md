@@ -14,7 +14,7 @@ This is Task 1 " Basic Banking System " of The Spark Foundation under their #GRI
 4. JAVA SCRIPT
 
 To run this project click on the link below:
-https://devenderpahadia.github.io/Basic_Banking_System_Task1_TSF_GRIPMARCH2022/
+https://kashyap801.github.io/Online-Bank-Web-Application/
 
 Flow of the Website: Home Page > View Customers > Send Money > read reciever name and sender name > Send Money > View Transfer History.
 
